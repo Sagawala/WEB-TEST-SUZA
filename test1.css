@@ -1,0 +1,14 @@
+.odd{
+    color:blue;
+    backgroud-color:white;
+    
+  }
+  .even{
+    color:white;
+    background-color:blue;
+  }
+  .opp{
+    background-color:#ccadf1;
+    
+  }
+
